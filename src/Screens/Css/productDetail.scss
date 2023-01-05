@@ -1,0 +1,14 @@
+.productSlide{
+
+    img{
+        width: 100%;
+        max-width: 400px;
+        object-fit: contain;
+    }
+}
+
+.swiperSlideProduct{
+  .swiper-slide-shadow{
+    display: none !important;
+  }
+}
